@@ -9,6 +9,7 @@ IDE - Brackets
 HTML5, CSS3, JavaScript and Bootstrap4
 
 <img src= "Resume builder.png"/>
+<img src= "Resume-builder.png"/>
 <img src= "resume.png"/>
 
 
